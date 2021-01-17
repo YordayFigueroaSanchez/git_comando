@@ -7,3 +7,5 @@
 7-git commit --amend
 8-git checkout -b rama
 -git branch
+9-git merge rama01
+10-git branch -d rama01
