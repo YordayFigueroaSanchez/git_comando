@@ -9,3 +9,5 @@
 9. git branch
 10. git merge rama01
 11. git branch -d rama01
+12. git push --set-upstream origin rama01
+13. git push
