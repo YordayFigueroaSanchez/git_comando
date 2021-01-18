@@ -14,3 +14,4 @@
 14. git commit -am "Commit y add unidos"
 15. git blame rama01.txt
 16. git tag v0.0.1
+17. git push --tags
